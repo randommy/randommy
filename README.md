@@ -3,7 +3,7 @@
 </p>
 # ───  System Information  ───
 
-> `Status:` Secondary School Student // IT Enthusiast  
+> `Status:` High School Student // IT Enthusiast  
 > `Focus:` Python, Data Science, CS  
 > `Location:` Dushanbe, Tajikistan  
 
