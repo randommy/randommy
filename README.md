@@ -4,7 +4,7 @@
 # ───  System Information  ───
 
 > `Status:` Secondary School Student // IT Enthusiast  
-> `Focus:` Python, Data Science, Cyber Security  
+> `Focus:` Python, Data Science, CS  
 > `Location:` Dushanbe, Tajikistan  
 
 ---
