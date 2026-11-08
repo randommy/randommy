@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" width="70%" alt="Workspace">
+</p>
+# ───  System Information  ───
 
-<!--
-**randommy/randommy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> `Status:` IT Enthusiast  
+> `Focus:` Python  
+> `Location:` Dushanbe, Tajikistan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Stack
+`Python` • `Pandas` • `Scikit-learn` • `Git`
+
+---
+
+*“Code is never finished. It only becomes slightly less terrible over time.”*
