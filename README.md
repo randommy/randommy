@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner2.png" width="70%" alt="Workspace">
+  <img src="banner.png" width="70%" alt="Workspace">
 </p>
 # ───  System Information  ───
 
