@@ -10,7 +10,7 @@
 ---
 
 ### 🛠️ Core Stack
-`Python` • `Pandas` • `Scikit-learn` • `Git`
+`Python` • `Pandas` • `Scikit-learn` • `Git` • `Go`
 
 ---
 
